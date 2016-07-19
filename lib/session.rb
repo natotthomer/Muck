@@ -1,5 +1,4 @@
 require 'json'
-require 'byebug'
 
 class Session
   attr_accessor :cookie

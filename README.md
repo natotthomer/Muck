@@ -43,7 +43,7 @@ end
 
 ### To-Do
 
-[ ] Add CSRF authenticity verification
-[ ] Add flash
-[ ] Enforce strong params to block bad input
-[ ] Helpful errors
+- [ ] Add CSRF authenticity verification
+- [ ] Add flash
+- [ ] Enforce strong params to block bad input
+- [ ] Helpful errors

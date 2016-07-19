@@ -48,7 +48,6 @@ class Router
 
   [:get, :post, :put, :delete].each do |http_method|
     define_method(http_method) do |pattern, controller_class, action_name|
-      debugger
       add_route(pattern, http_method, controller_class, action_name)
     end
   end
